@@ -1,0 +1,75 @@
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.deps.json
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.runtimeconfig.json
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.runtimeconfig.dev.json
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.dll
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.pdb
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.AssemblyInfo.cs
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.dll
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\refint\MyResume.Domain.dll
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.pdb
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.genruntimeconfig.cache
+C:\Users\12345\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\ref\MyResume.Domain.dll
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.deps.json
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.runtimeconfig.json
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.runtimeconfig.dev.json
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.dll
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.pdb
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.csproj.AssemblyReference.cache
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.AssemblyInfoInputs.cache
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.AssemblyInfo.cs
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.dll
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\refint\MyResume.Domain.dll
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.pdb
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.genruntimeconfig.cache
+C:\Users\ramin\Desktop\My files\Code Academy\Back-End Development\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\ref\MyResume.Domain.dll
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.deps.json
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.runtimeconfig.json
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.runtimeconfig.dev.json
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.dll
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.pdb
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.csproj.AssemblyReference.cache
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.AssemblyInfoInputs.cache
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.AssemblyInfo.cs
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.dll
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\refint\MyResume.Domain.dll
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.pdb
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.genruntimeconfig.cache
+C:\Users\ramin\Desktop\MyResume Solution\MyResume.Domain\obj\Debug\net5.0\ref\MyResume.Domain.dll
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.deps.json
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.runtimeconfig.json
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.runtimeconfig.dev.json
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.dll
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.pdb
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.csproj.AssemblyReference.cache
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.AssemblyInfoInputs.cache
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.AssemblyInfo.cs
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.csproj.CoreCompileInputs.cache
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.dll
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\obj\Debug\net5.0\refint\MyResume.Domain.dll
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.pdb
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.genruntimeconfig.cache
+C:\Users\izzet\OneDrive\Masaüstü\MyResume-web-main\MyResume.Domain\obj\Debug\net5.0\ref\MyResume.Domain.dll
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.deps.json
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.runtimeconfig.json
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.dll
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\bin\Debug\net5.0\MyResume.Domain.pdb
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.dll
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\obj\Debug\net5.0\refint\MyResume.Domain.dll
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.pdb
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\obj\Debug\net5.0\MyResume.Domain.genruntimeconfig.cache
+C:\Users\DELL\Desktop\cvv\MyResume.Domain\obj\Debug\net5.0\ref\MyResume.Domain.dll
